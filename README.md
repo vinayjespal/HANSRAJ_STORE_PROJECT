@@ -28,7 +28,7 @@ This project analyzes the annual sales data of Hansraj Store using **Microsoft E
 📁 Hansraj-Store-Analysis
 │── 📜 README.md (Project Overview)
 │── 📜 Sample Data hansraj store.xlsx
-│── 📜 Hansraj Store Excel Project.xlsx (Interactive Excel Dashboard)
+│── 📜 Hansraj Store Excel Dashboard.xlsx (Interactive Excel Dashboard)
 │── 📜 Business_Problems.pdf (Key Challenges & Solutions)
 │── 📜 Hansraj Store Analysis Report.pdf (Detailed Findings & Recommendations)
 
